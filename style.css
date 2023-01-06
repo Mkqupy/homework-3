@@ -1,14 +1,15 @@
-* {
-    padding: 0;
-    margin: 0;
+.text-box>h3:first-child{
+    color: pink;
 }
-.tr{
-    text-transform: inherit;
-    text-indent: 20px;
-    text-align: center;
-    white-space: pre;
-    word-break: inherit;
-    font-weight: 200;
-    font-family: 'East Sea Dokdo', cursive;
-    font-size: 30px;
-} 
+#greycol{
+    color: grey;
+}
+div>p:only-child{
+    color: red;
+}
+.text-box>p:nth-last-child(2){
+    color: green;
+}
+.yellow{
+    color: yellow;
+}
