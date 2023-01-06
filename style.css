@@ -1,0 +1,14 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+.tr{
+    text-transform: inherit;
+    text-indent: 20px;
+    text-align: center;
+    white-space: pre;
+    word-break: inherit;
+    font-weight: 200;
+    font-family: 'East Sea Dokdo', cursive;
+    font-size: 30px;
+} 
